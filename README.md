@@ -1,3 +1,7 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+Hi ，I'm 一滴墨破纸白! 👋
+🏡 技术博客：https://gitee.com/yangchen_z
+🌱 技术分享 CSDN  https://blog.csdn.net/weixin_54773928
+💬 邮箱：946945350@qq.com
+🤔 社区： Overflow
+⭐️ GitHub镜像站：Ydmpzb's Gitee
+⚡ Technologies Machine Learning
