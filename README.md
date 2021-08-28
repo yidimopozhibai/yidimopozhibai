@@ -13,3 +13,5 @@ Hi ，I'm ydmpzb! 👋
 ⚡ Learning Now:machine learning/Linux(pi)/Mathematical modeling
 
 🤫Major:Se
+
+                                                       Talk is cheap. Show me the code.Keep learning!!!!!!!!!!!
