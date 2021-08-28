@@ -10,4 +10,6 @@ Hi ，I'm 一滴墨破纸白! 👋
 
 ⭐️ GitHub镜像站：Ydmpzb's Gitee
 
-⚡ Technologies Machine Learning
+⚡ Learning Now:machine learning/Linux(pi)/Mathematical modeling
+
+🤫Major:Se
