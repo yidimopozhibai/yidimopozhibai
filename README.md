@@ -13,5 +13,7 @@ Hi ，I'm ydmpzb! 👋
 ⚡ Learning Now:machine learning/Linux(pi)/Mathematical modeling
 
 🤫Major:Se
+ 
+ 在打RM，队里面的代码自己习惯不好胡乱上传，只能暂时屏蔽一下全部仓库了。
 
                                  Talk is cheap. Show me the code.Keep learning!!!!!!!!!!!
