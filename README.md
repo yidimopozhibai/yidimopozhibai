@@ -14,6 +14,6 @@ Hi ，I'm ydmpzb! 👋
 
 🤫Major:Se
  
- 在打RM，队里面的代码自己习惯不好胡乱上传，只能暂时屏蔽一下全部仓库了。
+ 在打RM，码自己习惯不好胡乱上传队里面的代，只能暂时屏蔽一下全部仓库了。
 
                                  Talk is cheap. Show me the code.Keep learning!!!!!!!!!!!
